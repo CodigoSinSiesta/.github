@@ -10,7 +10,9 @@ Sitio web: https://codigosinsiesta.github.io/
 
 - Dale a la intro tecnica: https://codigosinsiesta.github.io/docs/intro
 - Metete en el taller principal: https://github.com/CodigoSinSiesta/taller-ia-agentes-mcp
-- Mira una presentacion en vivo: https://codigosinsiesta.github.io/coding-agents-presentation/
+- Mira las presentaciones en vivo:
+  - https://codigosinsiesta.github.io/coding-agents-presentation/
+  - https://codigosinsiesta.github.io/subagents-skills-presentation/
 
 ## Que hacemos
 
@@ -24,11 +26,14 @@ Sitio web: https://codigosinsiesta.github.io/
 - [codigosinsiesta.github.io](https://github.com/CodigoSinSiesta/codigosinsiesta.github.io)  
   Hub principal de la organizacion: documentacion, blog y recursos tecnicos.
 
+- [ai-presentation](https://github.com/CodigoSinSiesta/ai-presentation)  
+  Presentacion "Vibe Coding vs Software Engineering" con el framework 4R (Risk, Readability, Reliability, Resilience).
+
 - [coding-agents-presentation](https://github.com/CodigoSinSiesta/coding-agents-presentation)  
   Presentacion interactiva sobre agentes de codificacion con IA, flujos de trabajo y estrategias anti-alucinacion.
 
-- [ai-presentation](https://github.com/CodigoSinSiesta/ai-presentation)  
-  Presentacion "Vibe Coding vs Software Engineering" con el framework 4R (Risk, Readability, Reliability, Resilience).
+- [subagents-skills-presentation](https://github.com/CodigoSinSiesta/subagents-skills-presentation)  
+  Presentacion interactiva sobre subagentes y skills: patrones de orquestacion, anatomia de una skill y herramientas reales.
 
 - [taller-ia-agentes-mcp](https://github.com/CodigoSinSiesta/taller-ia-agentes-mcp)  
   Taller practico de agentes y MCP (Model Context Protocol) servers, con ejemplos ejecutables y setup en Codespaces/DevContainer para entrar rapido al barro.
