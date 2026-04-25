@@ -9,17 +9,20 @@ Sitio web: https://codigosinsiesta.github.io/
 ## Empieza aqui
 
 - Dale a la intro tecnica: https://codigosinsiesta.github.io/docs/intro
-- Metete en el taller principal: https://github.com/CodigoSinSiesta/taller-ia-agentes-mcp
+- Metete en uno de nuestros talleres hands-on:
+  - https://github.com/CodigoSinSiesta/taller-ia-agentes-mcp (agentes + MCP servers)
+  - https://github.com/CodigoSinSiesta/taller-llm-wiki-starter (monta tu wiki personal con un agente)
 - Mira las presentaciones en vivo:
   - https://codigosinsiesta.github.io/coding-agents-presentation/
   - https://codigosinsiesta.github.io/subagents-skills-presentation/
+  - https://codigosinsiesta.github.io/taller-llm-wiki-presentation/
 
 ## Que hacemos
 
 - Publicamos documentacion tecnica util y accionable para equipos reales.
 - Compartimos contenido sobre arquitectura, herramientas y buenas practicas.
 - Creamos presentaciones interactivas sobre IA aplicada con criterio de ingenieria.
-- Montamos talleres hands-on para construir agentes de IA y MCP Servers paso a paso.
+- Montamos talleres hands-on para construir agentes de IA, MCP Servers y bases de conocimiento personales paso a paso.
 
 ## Proyectos destacados
 
@@ -37,6 +40,12 @@ Sitio web: https://codigosinsiesta.github.io/
 
 - [taller-ia-agentes-mcp](https://github.com/CodigoSinSiesta/taller-ia-agentes-mcp)  
   Taller practico de agentes y MCP (Model Context Protocol) servers, con ejemplos ejecutables y setup en Codespaces/DevContainer para entrar rapido al barro.
+
+- [taller-llm-wiki-starter](https://github.com/CodigoSinSiesta/taller-llm-wiki-starter)  
+  Repo template del taller LLM Wiki: monta tu propio baul de conocimiento personal mantenido por tu agente (Claude, Codex, OpenCode, Copilot, Cursor...). Patron Karpathy con plantillas YAML, ejercicios hands-on y AGENTS.md listo para personalizar.
+
+- [taller-llm-wiki-presentation](https://github.com/CodigoSinSiesta/taller-llm-wiki-presentation)  
+  Presentacion interactiva (10 slides, 90-120 min) que acompana al starter del taller LLM Wiki. Astro + Svelte + Tailwind + GSAP. En vivo en https://codigosinsiesta.github.io/taller-llm-wiki-presentation/
 
 - [codigosinsiesta-examples](https://github.com/CodigoSinSiesta/codigosinsiesta-examples)  
   Repositorio companion con ejemplos ejecutables usados en tutoriales y talleres.
