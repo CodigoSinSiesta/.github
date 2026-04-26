@@ -17,6 +17,7 @@ Sitio web: https://codigosinsiesta.github.io/
   - https://codigosinsiesta.github.io/coding-agents-presentation/
   - https://codigosinsiesta.github.io/subagents-skills-presentation/
   - https://codigosinsiesta.github.io/taller-llm-wiki-presentation/
+  - https://codigosinsiesta.github.io/taller-graphify-presentation/
 
 ## Que hacemos
 
@@ -53,6 +54,9 @@ Sitio web: https://codigosinsiesta.github.io/
 
 - [taller-graphify-presentation](https://github.com/CodigoSinSiesta/taller-graphify-presentation)  
   Presentacion (12 slides, 90-120 min) que acompana al starter del taller Graphify. Notas de ponente listas en guia/; boilerplate visual heredado del repo de taller-llm-wiki-presentation.
+
+- [theme](https://github.com/CodigoSinSiesta/theme)  
+  Sistema de diseno V4 "dark blueprint" compartido entre todas las presentaciones de la organizacion. Tokens CSS (paleta azul cobalto + neutros slate + semanticos) + chrome global (accent-bar + breadcrumb + footer + eyebrow bar) + Tailwind preset. Consumible via git URL hasta que se publique en npm.
 
 - [codigosinsiesta-examples](https://github.com/CodigoSinSiesta/codigosinsiesta-examples)  
   Repositorio companion con ejemplos ejecutables usados en tutoriales y talleres.
