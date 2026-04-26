@@ -12,6 +12,7 @@ Sitio web: https://codigosinsiesta.github.io/
 - Metete en uno de nuestros talleres hands-on:
   - https://github.com/CodigoSinSiesta/taller-ia-agentes-mcp (agentes + MCP servers)
   - https://github.com/CodigoSinSiesta/taller-llm-wiki-starter (monta tu wiki personal con un agente)
+  - https://github.com/CodigoSinSiesta/taller-graphify-starter (indexa un repo o /raw con Graphify y decide cuando SI adoptarlo)
 - Mira las presentaciones en vivo:
   - https://codigosinsiesta.github.io/coding-agents-presentation/
   - https://codigosinsiesta.github.io/subagents-skills-presentation/
@@ -46,6 +47,12 @@ Sitio web: https://codigosinsiesta.github.io/
 
 - [taller-llm-wiki-presentation](https://github.com/CodigoSinSiesta/taller-llm-wiki-presentation)  
   Presentacion interactiva (10 slides, 90-120 min) que acompana al starter del taller LLM Wiki. Astro + Svelte + Tailwind + GSAP. En vivo en https://codigosinsiesta.github.io/taller-llm-wiki-presentation/
+
+- [taller-graphify-starter](https://github.com/CodigoSinSiesta/taller-graphify-starter)  
+  Repo template del taller Graphify: mini coding agent en TypeScript + raw heterogeneo sobre el que aprender a indexar con Graphify y decidir con criterio si adoptarlo. Tres ejercicios hands-on (setup, skill+queries, veredicto razonado) y AGENTS.md cross-agent.
+
+- [taller-graphify-presentation](https://github.com/CodigoSinSiesta/taller-graphify-presentation)  
+  Presentacion (12 slides, 90-120 min) que acompana al starter del taller Graphify. Notas de ponente listas en guia/; boilerplate visual heredado del repo de taller-llm-wiki-presentation.
 
 - [codigosinsiesta-examples](https://github.com/CodigoSinSiesta/codigosinsiesta-examples)  
   Repositorio companion con ejemplos ejecutables usados en tutoriales y talleres.
