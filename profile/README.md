@@ -16,6 +16,8 @@ Sitio web: https://codigosinsiesta.github.io/
 - Mira las presentaciones en vivo:
   - https://codigosinsiesta.github.io/coding-agents-presentation/
   - https://codigosinsiesta.github.io/subagents-skills-presentation/
+  - https://codigosinsiesta.github.io/harness-engineering-presentation/
+  - https://codigosinsiesta.github.io/orquestacion-patrones-presentation/
   - https://codigosinsiesta.github.io/taller-llm-wiki-presentation/
   - https://codigosinsiesta.github.io/taller-graphify-presentation/
 - O explora el design system V4 que comparten todos los decks:
@@ -36,11 +38,26 @@ Sitio web: https://codigosinsiesta.github.io/
 - [ai-presentation](https://github.com/CodigoSinSiesta/ai-presentation)  
   Presentacion "Vibe Coding vs Software Engineering" con el framework 4R (Risk, Readability, Reliability, Resilience).
 
+- [mcp-servers-presentation](https://github.com/CodigoSinSiesta/mcp-servers-presentation)  
+  Presentacion interactiva sobre MCP Servers: que son, como funcionan y como integrarlos en tu flujo de trabajo.
+
 - [coding-agents-presentation](https://github.com/CodigoSinSiesta/coding-agents-presentation)  
   Presentacion interactiva sobre agentes de codificacion con IA, flujos de trabajo y estrategias anti-alucinacion.
 
 - [subagents-skills-presentation](https://github.com/CodigoSinSiesta/subagents-skills-presentation)  
   Presentacion interactiva sobre subagentes y skills: patrones de orquestacion, anatomia de una skill y herramientas reales.
+
+- [skills-vs-subagents-presentation](https://github.com/CodigoSinSiesta/skills-vs-subagents-presentation)  
+  Presentacion educativa: comparativa entre skills y subagentes en arquitecturas de IA agentiva.
+
+- [spec-driven-development-presentation](https://github.com/CodigoSinSiesta/spec-driven-development-presentation)  
+  Presentacion sobre Spec-Driven Development: como escribir especificaciones que los agentes puedan ejecutar correctamente.
+
+- [harness-engineering-presentation](https://github.com/CodigoSinSiesta/harness-engineering-presentation)  
+  Presentacion sobre Harness Engineering: por que la arquitectura que envuelve al modelo explica mas varianza que el modelo en si.
+
+- [orquestacion-patrones-presentation](https://github.com/CodigoSinSiesta/orquestacion-patrones-presentation) — [En vivo ↗](https://codigosinsiesta.github.io/orquestacion-patrones-presentation/)  
+  Deck de 22 slides sobre patrones de orquestacion de agentes IA. 3 modulos independientes: Taxonomia Evolutiva (10 niveles), Por Problema (6 dolores reales) y Convergencias Industria (Anthropic, OpenAI, Factory y academia dicen lo mismo). Astro 5 + Svelte 5 + Tailwind 4 + GSAP.
 
 - [taller-ia-agentes-mcp](https://github.com/CodigoSinSiesta/taller-ia-agentes-mcp)  
   Taller practico de agentes y MCP (Model Context Protocol) servers, con ejemplos ejecutables y setup en Codespaces/DevContainer para entrar rapido al barro.
